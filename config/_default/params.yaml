@@ -18,13 +18,13 @@ marketing:
     site_type: Person
     local_business_type: ''
     org_name: ''
-    description: 'A highly-customizable Hugo academic resume theme powered by Wowchemy website builder.'
+    description: 'Personal website of Guangyan Cai'
     twitter: 'wowchemy'
   analytics:
     google_analytics: ''
     baidu_tongji: ''
   verification:
-    google: 'google-site-verification=6_DEwVIvPm_EYKBtB2xi3-2TUnEnxLeB-kzrJ7ea-JM'
+    google: '6_DEwVIvPm_EYKBtB2xi3-2TUnEnxLeB-kzrJ7ea-JM'
     baidu: ''
 
 # Site header
