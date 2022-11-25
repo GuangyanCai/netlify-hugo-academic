@@ -1,12 +1,10 @@
 ---
-title: Alice Bighetti 吳恩達
-role: Professor of Artificial Intelligence
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
-interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+title: Guangyan Cai 蔡广彦
+role: Ph.D. Student in Computer Science
+avatar_filename: avatar.jpg
+bio: "I am interested in physics-based differentiable rendering and its
+  applications, such as inverse rendering. "
+interests: []
 social:
   - icon: envelope
     icon_pack: fas
