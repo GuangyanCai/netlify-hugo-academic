@@ -9,4 +9,5 @@ author: admin
 design:
   background:
     image: demo.png
+    image_darken: 0.3
 ---
