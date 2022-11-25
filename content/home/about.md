@@ -8,5 +8,5 @@ active: true
 author: admin
 design:
   background:
-    image: pxl_20210923_031601393.portrait-1-.jpg
+    image: demo.png
 ---
