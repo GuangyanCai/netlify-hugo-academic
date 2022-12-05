@@ -1,6 +1,6 @@
 ---
 title: Guangyan Cai
-role: Ph.D. Student in Computer Science
+role: Ph.D. Candidate in Computer Science
 avatar_filename: avatar.jpg
 bio: "I am interested in physics-based differentiable rendering and its
   applications, such as inverse rendering. "
@@ -28,16 +28,16 @@ education:
   courses:
     - course: Ph.D. in Computer Science
       institution: University of California, Irvine
-      year: ""
+      year: 2020 - Present
     - course: B.S. in Computer Science
       institution: University of California, San Diego
-      year: 2020
+      year: 2016 - 2020
 superuser: true
-last_name: Bighetti
+last_name: Cai
 highlight_name: true
-first_name: Alice
+first_name: Guangyan
 email: gcai3@uci.edu
 ---
-Guangyan Cai (蔡广彦) is a third-year Ph.D. Student in Computer Science at UC Irvine School of Information and Computer Science, advised by [Prof. Shuang Zhao](https://shuangz.com/). I am interested in physics-based differentiable rendering and its applications, such as inverse rendering. 
+Guangyan Cai (蔡广彦) is a third-year Ph.D. candidate in Computer Science at UC Irvine School of Information and Computer Science, advised by [Prof. Shuang Zhao](https://shuangz.com/). I am interested in physics-based differentiable rendering and its applications, such as inverse rendering. 
 
 I received my B.S. degree in Computer Science from UC San Diego, where I worked with [Prof. Ravi Ramamoorthi](https://cseweb.ucsd.edu//~ravir/).
