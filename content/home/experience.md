@@ -33,6 +33,17 @@ experience:
         * Investigated the baking artifacts in material reconstruction with inverse rendering and proposed a method to mitigate them.
         * Participated in building a hybrid pipeline that combines NeRF and physics-based differentiable rendering to do high quality 3D reconstruction. 
         * Showcased our reconstruction results at [Meta Connect 2022](https://www.facebook.com/RealityLabs/videos/3281891035412216/) (starting at 1:13:20).
+        * Published our work at ICCV 2023 ([see here]({{< ref "sun-2023-iccv" >}})).
+
+  - title: Research Intern
+    company: Adobe Research
+    company_url: https://research.adobe.com/
+    company_logo: adobe
+    location: San Jose, CA
+    date_start: '2023-06-26'
+    date_end: '2023-09-08'
+    description: |2-
+        * Investigated geometric artifacts caused by specular highlights in 3D reconstruction and made promising progress. 
 
 design:
   columns: '2'
