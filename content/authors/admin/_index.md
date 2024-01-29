@@ -38,6 +38,6 @@ highlight_name: true
 first_name: Guangyan
 email: gcai3@uci.edu
 ---
-My name is Guangyan Cai (蔡广彦) and I am a third-year Ph.D. candidate in Computer Science at UC Irvine School of Information and Computer Science, advised by [Prof. Shuang Zhao](https://shuangz.com/). I am interested in physics-based differentiable rendering and its applications, such as inverse rendering. 
+My name is Guangyan Cai (蔡广彦) and I am a fourth-year Ph.D. candidate in Computer Science at UC Irvine School of Information and Computer Science, advised by [Prof. Shuang Zhao](https://shuangz.com/). I am interested in physics-based differentiable rendering and its applications, such as inverse rendering. 
 
 I received my B.S. degree in Computer Science from UC San Diego, where I worked with [Prof. Ravi Ramamoorthi](https://cseweb.ucsd.edu//~ravir/).
