@@ -3,7 +3,7 @@ title: "PBIR-NIE: Glossy Object Capture under Non-Distant Lighting"
 publication_types:
   - "3"
 authors:
-  - Guangyan Cai
+  - admin
   - Fujun Luan
   - Miloš Hašan
   - Kai Zhang
