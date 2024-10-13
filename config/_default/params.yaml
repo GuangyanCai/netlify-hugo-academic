@@ -6,7 +6,8 @@
 # Appearance
 
 appearance:
-  theme_day: mine
+  theme_day: earth
+  theme_night: earth
   font: minimal
   font_size: L
 
@@ -42,7 +43,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
+    notice: '© {year} Guangyan Cai. This work is licensed under {license}'
     license:
       enable: true
       allow_derivatives: false

@@ -1,23 +1,23 @@
 # Theme metadata
-name = "test" # Based on https://www.nordtheme.com/
+name = "mine" 
 
 [light]
   # Primary
-  primary = "#8C5C2B"
-  background = "#FEFAE0"
+  primary = "#B17457"
+  background = "#D8D2C2"
 
   link = "#8C5C2B"
   link_hover = "#D4A373"
 
   # Menu
-  menu_primary = "#797D62"
-  menu_text = "#E5E9F0"
-  menu_text_active = "#faedcd"
-  menu_title = "#d4a373"
+  menu_primary = "#B17457"
+  menu_text = "#FAF7F0"
+  menu_text_active = "#4A4947"
+  menu_title = "#FAF7F0"
 
   # Home sections
-  home_section_odd = "#e9edc9"
-  home_section_even = "#FEFAE0"
+  home_section_odd = "#FAF7F0"
+  home_section_even = "#D8D2C2"
 
 [dark]
   # Primary
