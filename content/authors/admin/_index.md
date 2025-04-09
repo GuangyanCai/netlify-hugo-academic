@@ -42,4 +42,4 @@ My name is Guangyan Cai (蔡广彦) and I am a fifth-year Ph.D. candidate in Com
 
 I received my B.S. degree in Computer Science from UC San Diego, where I worked with [Prof. Ravi Ramamoorthi](https://cseweb.ucsd.edu//~ravir/).
 
-*I am expected to graduate in 2025 and I am actively looking for a research scientist position.*
+*I’m currently completing my degree and expect to graduate in Spring 2025. I’ve accepted a full-time job offer and will be sharing more details soon.*
