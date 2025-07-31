@@ -1,6 +1,6 @@
 ---
 title: Guangyan Cai
-role: Ph.D. Candidate in Computer Science
+role: Research Engineer
 avatar_filename: avatar.jpg
 bio: "I am interested in physics-based differentiable rendering and its
   applications, such as inverse rendering. "
@@ -22,13 +22,13 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/in/guangyan-cai-8a6663155/
 organizations:
-  - name: University of California, Irvine
-    url: https://www.uci.edu/
+  - name: SceniX
+    url: https://scenix.ai/
 education:
   courses:
     - course: Ph.D. in Computer Science
       institution: University of California, Irvine
-      year: 2020 - Present
+      year: 2020 - 2025
     - course: B.S. in Computer Science
       institution: University of California, San Diego
       year: 2016 - 2020
@@ -38,8 +38,8 @@ highlight_name: true
 first_name: Guangyan
 email: gcai3@uci.edu
 ---
-My name is Guangyan Cai (蔡广彦) and I am a fifth-year Ph.D. candidate in Computer Science at UC Irvine School of Information and Computer Science, advised by [Prof. Shuang Zhao](https://shuangz.com/). I am interested in physics-based differentiable rendering and its applications, such as inverse rendering. 
+My name is **Guangyan Cai** (蔡广彦), and I am a research engineer at [SceniX](https://scenix.ai/), where I develop simulation engines for robotic learning systems.
 
-I received my B.S. degree in Computer Science from UC San Diego, where I worked with [Prof. Ravi Ramamoorthi](https://cseweb.ucsd.edu//~ravir/).
+I earned my Ph.D. in Computer Science from the University of California, Irvine, School of Information and Computer Sciences, under the supervision of [Prof. Shuang Zhao](https://shuangz.com/). My doctoral research focused on physics-based differentiable rendering and its applications, including inverse rendering.
 
-*I’m currently completing my degree and expect to graduate in Spring 2025. I’ve accepted a full-time job offer and will be sharing more details soon.*
+Previously, I received my B.S. in Computer Science from the University of California, San Diego, where I worked with [Prof. Ravi Ramamoorthi](https://cseweb.ucsd.edu//~ravir/).

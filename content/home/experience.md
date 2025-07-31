@@ -22,6 +22,16 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: Research Engineer
+    company: SceniX
+    company_url: https://scenix.ai/
+    company_logo: scenix
+    location: New York, NY
+    date_start: '2025-08-11'
+    date_end: ''
+    description: |2-
+        * Developing simulation engines for robotic learning systems.
+  
   - title: Research Intern
     company: Meta Reality Labs
     company_url: https://tech.fb.com/ar-vr/

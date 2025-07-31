@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role: Research Scientist at Meta Reality Labs
+role: Senior Research Lead & Manager at Meta Reality Lab Research
 
 # Organizations/Affiliations
 organizations:
