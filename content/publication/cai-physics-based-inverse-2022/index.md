@@ -52,9 +52,9 @@ publication: '*Computer Graphics Forum*'
 doi: https://doi.org/10.1111/cgf.14592
 links:
 - name: Paper
-  url: https://shuangz.com/projects/psdr-meshsdf-egsr22/psdr-meshsdf-egsr22.pdf
+  url: publication/cai-physics-based-inverse-2022/psdr-meshsdf-egsr22.pdf
 - name: Supplement
-  url: https://shuangz.com/projects/psdr-meshsdf-egsr22/psdr-meshsdf-egsr22_supp.pdf
+  url: publication/cai-physics-based-inverse-2022/psdr-meshsdf-egsr22_supp.pdf
 - name: Code
   url: https://shuangz.com/projects/psdr-meshsdf-egsr22/code_data.zip
 - name: URL

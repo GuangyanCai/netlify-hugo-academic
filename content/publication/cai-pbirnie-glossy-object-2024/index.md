@@ -48,4 +48,5 @@ doi: 10.48550/arXiv.2408.06878
 links:
 - name: arXiv
   url: https://arxiv.org/abs/2408.06878
+url_pdf: publication/cai-pbirnie-glossy-object-2024/pbir-nie.pdf
 ---

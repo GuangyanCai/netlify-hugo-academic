@@ -59,7 +59,7 @@ publication: '*ACM Trans. Graph.*'
 doi: 10.1145/3386569.3392373
 links:
 - name: Paper
-  url: https://shuangz.com/projects/diffsh-sg20/diffsh-sg20.pdf
+  url: publication/wu-analytic-spherical-harmonic-2020/diffsh-sg20.pdf
 - name: Video
   url: https://vimeo.com/429735943
 - name: Code

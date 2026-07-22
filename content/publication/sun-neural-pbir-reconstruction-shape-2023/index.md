@@ -52,6 +52,7 @@ publication: '*Proceedings of the IEEE/CVF International Conference on Computer 
 links:
 - name: Project
   url: https://neural-pbir.github.io/
-- name: Paper
+- name: arXiv
   url: https://arxiv.org/abs/2304.13445
+url_pdf: publication/sun-neural-pbir-reconstruction-shape-2023/neural-pbir-iccv23.pdf
 ---

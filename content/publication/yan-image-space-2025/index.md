@@ -8,7 +8,7 @@ authors:
 - Kai Yan
 - Cheng Zhang
 - sébastien-speierer
-- Guangyan Cai
+- admin
 - yufeng-zhu
 - Zhao Dong
 - Shuang Zhao
@@ -58,4 +58,5 @@ doi: 10.1145/3721238.3730627
 links:
 - name: URL
   url: https://dl.acm.org/doi/10.1145/3721238.3730627
+url_pdf: publication/yan-image-space-2025/adaptive-batching-sg25.pdf
 ---

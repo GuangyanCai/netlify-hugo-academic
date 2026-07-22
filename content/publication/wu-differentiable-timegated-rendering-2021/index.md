@@ -55,7 +55,7 @@ publication: '*ACM Trans. Graph.*'
 doi: 10.1145/3478513.3480489
 links:
 - name: Paper
-  url: https://shuangz.com/projects/dtgr-sa21/dtgr-sa21.pdf
+  url: publication/wu-differentiable-timegated-rendering-2021/dtgr-sa21.pdf
 - name: Talk Slides
   url: https://shuangz.com/projects/dtgr-sa21/dtgr-sa21.pptx
 - name: Supplement

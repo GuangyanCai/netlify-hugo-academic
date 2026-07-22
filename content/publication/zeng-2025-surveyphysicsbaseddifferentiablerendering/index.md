@@ -37,4 +37,5 @@ publication: ''
 links:
 - name: arXiv
   url: https://arxiv.org/abs/2504.01402
+url_pdf: publication/zeng-2025-surveyphysicsbaseddifferentiablerendering/diff-rendering-survey.pdf
 ---
