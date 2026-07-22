@@ -1,6 +1,6 @@
 ---
 title: Guangyan Cai
-role: Research Engineer
+role: Member of Technical Staff
 avatar_filename: avatar.jpg
 bio: "I am interested in physics-based differentiable rendering and its
   applications, such as inverse rendering. "
@@ -22,8 +22,8 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/in/guangyan-cai-8a6663155/
 organizations:
-  - name: SceniX
-    url: https://scenix.ai/
+  - name: World Labs
+    url: https://www.worldlabs.ai/
 education:
   courses:
     - course: Ph.D. in Computer Science
@@ -38,7 +38,7 @@ highlight_name: true
 first_name: Guangyan
 email: gcai3@uci.edu
 ---
-My name is **Guangyan Cai** (蔡广彦), and I am a research engineer at [SceniX](https://scenix.ai/), where I develop simulation engines for robotic learning systems.
+My name is **Guangyan Cai** (蔡广彦), and I am a member of technical staff at [World Labs](https://www.worldlabs.ai/), where I work on simulation for robotic learning and embodied AI. Previously, I was a research engineer at [SceniX](https://scenix.ai/), which was [acquired by World Labs](https://www.worldlabs.ai/blog/scenix) in July 2026.
 
 I earned my Ph.D. in Computer Science from the University of California, Irvine, School of Information and Computer Sciences, under the supervision of [Prof. Shuang Zhao](https://shuangz.com/). My doctoral research focused on physics-based differentiable rendering and its applications, including inverse rendering.
 

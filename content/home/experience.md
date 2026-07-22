@@ -22,15 +22,26 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: Member of Technical Staff
+    company: World Labs
+    company_url: https://www.worldlabs.ai/
+    company_logo: worldlabs
+    location: New York, NY
+    date_start: '2026-07-21'
+    date_end: ''
+    description: |2-
+        * Working on simulation for robotic learning and embodied AI.
+
   - title: Research Engineer
     company: SceniX
     company_url: https://scenix.ai/
     company_logo: scenix
     location: New York, NY
     date_start: '2025-08-11'
-    date_end: ''
+    date_end: '2026-07-21'
     description: |2-
-        * Developing simulation engines for robotic learning systems.
+        * Developed simulation engines for robotic learning systems.
+        * SceniX was acquired by [World Labs](https://www.worldlabs.ai/) in July 2026.
   
   - title: Research Intern
     company: Meta Reality Labs
