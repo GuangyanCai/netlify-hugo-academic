@@ -16,7 +16,7 @@ content:
   autolink: true
 
   # Contact details (edit or remove options as required)
-  email: gcai3@uci.edu
+  email: gc.nick.academic@pm.me
 
 design:
   columns: '2'

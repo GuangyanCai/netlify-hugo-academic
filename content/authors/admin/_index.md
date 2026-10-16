@@ -36,7 +36,7 @@ superuser: true
 last_name: Cai
 highlight_name: true
 first_name: Guangyan
-email: gcai3@uci.edu
+email: gc.nick.academic@pm.me
 ---
 My name is **Guangyan Cai** (蔡广彦), and I am a member of technical staff at [World Labs](https://www.worldlabs.ai/), where I work on simulation for robotic learning and embodied AI. Previously, I was a research engineer at [SceniX](https://scenix.ai/), which was [acquired by World Labs](https://www.worldlabs.ai/blog/scenix) in July 2026.
 

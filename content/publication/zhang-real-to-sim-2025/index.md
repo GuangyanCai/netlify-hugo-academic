@@ -18,8 +18,8 @@ authors:
 - Yunzhu Li
 tags: []
 categories: []
-date: '2025-11-06'
-lastmod: 2026-07-22T00:00:00-04:00
+date: '2026-06-01'
+lastmod: 2026-10-16T00:00:00-04:00
 featured: false
 draft: false
 
@@ -39,7 +39,7 @@ image:
 projects: []
 publishDate: '2026-07-22T00:00:00.000000Z'
 publication_types:
-- '3'
+- '1'
 abstract: 'Robotic manipulation policies are advancing rapidly, but their direct
   evaluation in the real world remains costly, time-consuming, and difficult to reproduce,
   particularly for tasks involving deformable objects. Simulation provides a scalable
@@ -54,7 +54,8 @@ abstract: 'Robotic manipulation policies are advancing rapidly, but their direct
   suggest that combining physics-informed reconstruction with high-quality rendering
   enables reproducible, scalable, and accurate evaluation of robotic manipulation
   policies.'
-publication: '*arXiv*'
+publication: '*IEEE International Conference on Robotics and Automation (ICRA)*'
+publication_short: '*ICRA 2026*'
 links:
 - name: arXiv
   url: https://arxiv.org/abs/2511.04665
